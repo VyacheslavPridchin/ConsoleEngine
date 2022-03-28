@@ -1,7 +1,7 @@
 # ConsoleEngine
 
 <p align="center">
-  <img src="https://github.com/VyacheslavPridchin/ConsoleEngine/blob/main/ConsoleEngine%20Example.png" width="75%" />
+  <img src="https://github.com/VyacheslavPridchin/ConsoleEngine/blob/main/Example.png" width="75%" />
 </p>
 
 The ConsoleEngine library extends the graphical capabilities of the standard console. ConsoleEngine.UI contains
@@ -12,7 +12,7 @@ interactive graphic elements: Label, Button, Border. It also reports mouse and k
 # ConsoleEngine
 
 <p align="center">
-  <img src="https://github.com/VyacheslavPridchin/ConsoleEngine/blob/main/ConsoleEngine%20Example.png" width="75%" />
+  <img src="https://github.com/VyacheslavPridchin/ConsoleEngine/blob/main/Example.png" width="75%" />
 </p>
 
 Библиотека ConsoleEngine расширяет графические возможности стандартной консоли. ConsoleEngine.UI содержит в себе
