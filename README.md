@@ -1,3 +1,4 @@
+The project is in the process of creation. Проект находится в процессе создания.
 # ConsoleEngine
 
 <p align="center">
